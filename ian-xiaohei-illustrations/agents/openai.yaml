@@ -1,6 +1,0 @@
-interface:
-  display_name: "Ian Xiaohei Illustrations"
-  short_description: "Generate grotesque, clean article illustration assets with the Xiaohei IP"
-  default_prompt: "Use $ian-xiaohei-illustrations to design and generate several grotesque Xiaohei article illustrations for this English article."
-policy:
-  allow_implicit_invocation: true

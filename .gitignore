@@ -1,10 +1,17 @@
 .DS_Store
 Thumbs.db
 
-# Local generated outputs
-generated/
-outputs/
-dist/
+# Secrets
+.env
+.env.local
+
+# Generated image outputs
+/outputs/
+/generated/
+/assets/
+
+# Build artifacts
+/dist/
 
 # Local editor files
 .idea/
